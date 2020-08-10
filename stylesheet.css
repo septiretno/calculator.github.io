@@ -1,3 +1,7 @@
+body {
+	background-image:url(i.jpg);
+}
+
 .calculator {
 	text-align: center;
   	margin: 0 auto;
